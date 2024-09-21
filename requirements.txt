@@ -1,0 +1,8 @@
+cog==0.9.23
+matplotlib==3.5.0
+numpy==1.22.0
+pillow==10.3.0
+replicate==0.28.0
+scikit-learn==1.5.2
+torch==2.1.0
+torchvision==0.16.0
